@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 7dc702c13acdba5488a641be53e82618
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CourseSelectW1_Disp
+    100004: CudeIsland04__IslandMat01
+    100006: CudeIsland04__LawnMat05
+    100008: pCone16_1__GatePoleMat00
+    100010: pCube179__WallBlockMat00
+    100012: pCube233__RockMat01
+    100014: pCylinder14__LawnMat06
+    100016: pCylinder14__SandMat00
+    100018: polySurface1173_1__CloudMat01
+    100020: polySurface1599__LawnEdgeMat00
+    100022: polySurface1599__LawnEdgeMat00.001
+    100024: polySurface2961__SandSeaSideMat00
+    100026: pPlane37_1__RoadMat01
+    100028: UpblockShadow1__ZShadowMat
+    100030: Zshadow
+    400000: //RootNode
+    400002: CourseSelectW1_Disp
+    400004: CudeIsland04__IslandMat01
+    400006: CudeIsland04__LawnMat05
+    400008: pCone16_1__GatePoleMat00
+    400010: pCube179__WallBlockMat00
+    400012: pCube233__RockMat01
+    400014: pCylinder14__LawnMat06
+    400016: pCylinder14__SandMat00
+    400018: polySurface1173_1__CloudMat01
+    400020: polySurface1599__LawnEdgeMat00
+    400022: polySurface1599__LawnEdgeMat00.001
+    400024: polySurface2961__SandSeaSideMat00
+    400026: pPlane37_1__RoadMat01
+    400028: UpblockShadow1__ZShadowMat
+    400030: Zshadow
+    2100000: IslandMat01
+    2100002: LawnMat05
+    2100004: GatePoleMat00
+    2100006: WallBlockMat00
+    2100008: RockMat01
+    2100010: LawnMat06
+    2100012: SandMat00
+    2100014: RoadMat01
+    2100016: CloudMat01
+    2100018: LawnEdgeMat00
+    2100020: SandSeaSideMat00
+    2100022: ZShadowMat
+    4300000: CudeIsland04__IslandMat01
+    4300002: CudeIsland04__LawnMat05
+    4300004: pCone16_1__GatePoleMat00
+    4300006: pCube179__WallBlockMat00
+    4300008: pCube233__RockMat01
+    4300010: pCylinder14__LawnMat06
+    4300012: pCylinder14__SandMat00
+    4300014: pPlane37_1__RoadMat01
+    4300016: polySurface1173_1__CloudMat01
+    4300018: polySurface1599__LawnEdgeMat00
+    4300020: polySurface2961__SandSeaSideMat00
+    4300022: UpblockShadow1__ZShadowMat
+    4300024: polySurface1599__LawnEdgeMat00.001
+    9500000: //RootNode
+    13700000: CudeIsland04__IslandMat01
+    13700002: CudeIsland04__LawnMat05
+    13700004: pCone16_1__GatePoleMat00
+    13700006: pCube179__WallBlockMat00
+    13700008: pCube233__RockMat01
+    13700010: pCylinder14__LawnMat06
+    13700012: pCylinder14__SandMat00
+    13700014: polySurface1173_1__CloudMat01
+    13700016: polySurface1599__LawnEdgeMat00
+    13700018: polySurface1599__LawnEdgeMat00.001
+    13700020: polySurface2961__SandSeaSideMat00
+    13700022: pPlane37_1__RoadMat01
+    13700024: UpblockShadow1__ZShadowMat
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
